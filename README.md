@@ -7,11 +7,9 @@ This project analyzes retail/e-commerce sales data to uncover insights into cust
 
 🎯 Objectives  
 - Perform data cleaning & preprocessing  
-- Explore customer purchase behavior  
-- Identify top-selling products and sales trends  
-- Visualize seasonality & demand patterns  
 - Build a simple sales prediction model 
-- Provide business insights & recommendations  
+- Deploy as a simple dashboard using Streamlit  
+
 
 📂 Project Structure  
 retail-sales-insights/
@@ -29,26 +27,8 @@ retail-sales-insights/
 - Visualization: Matplotlib, Seaborn  
 - Version Control: Git & GitHub  
 
-📊 Example Insights  
-- Which products generate the most revenue?  
-- Which customers are the most loyal/repeat buyers?  
-- How do sales vary by month/season?  
-- Can we predict next month’s sales based on past data?  
-
-🚀 Results (to be updated)  
-- 📈 Sales trend analysis (monthly, seasonal)  
-- 🏆 Top 10 products by revenue  
-- 👥 Customer segmentation insights  
-- 🔮 Basic sales prediction model  
-
-📌 Next Steps  
-- Expand dataset with more features (customer demographics, promotions)  
-- Improve prediction model with advanced ML (Random Forest, XGBoost)  
-- Deploy as a simple dashboard (Streamlit/Flask)  
-
 👩‍💻 Author  
 Ashmin Dungana 
 - 🌍 From Nepal | Aspiring AI Engineer  
 - 📚 Learning Python, Data Science & AI  
 - 💼 Open to collaborations & freelance projects  
-- 🔗 [LinkedIn Profile](#) | [Portfolio](#) 
